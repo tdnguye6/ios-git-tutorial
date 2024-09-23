@@ -11,6 +11,7 @@
 		ECC4D79A2CA2154B00C81039 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECC4D7992CA2154B00C81039 /* ContentView.swift */; };
 		ECC4D79C2CA2154C00C81039 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ECC4D79B2CA2154C00C81039 /* Assets.xcassets */; };
 		ECC4D79F2CA2154C00C81039 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ECC4D79E2CA2154C00C81039 /* Preview Assets.xcassets */; };
+		ECC4D7A62CA216CE00C81039 /* ios-git-playground.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECC4D7A52CA216CE00C81039 /* ios-git-playground.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -141,6 +142,7 @@
 			files = (
 				ECC4D79A2CA2154B00C81039 /* ContentView.swift in Sources */,
 				ECC4D7982CA2154B00C81039 /* ios_git_introApp.swift in Sources */,
+				ECC4D7A62CA216CE00C81039 /* ios-git-playground.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
