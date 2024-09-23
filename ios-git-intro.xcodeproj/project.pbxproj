@@ -19,6 +19,7 @@
 		ECC4D7992CA2154B00C81039 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		ECC4D79B2CA2154C00C81039 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ECC4D79E2CA2154C00C81039 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		ECC4D7A52CA216CE00C81039 /* ios-git-playground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = "ios-git-playground.swift"; path = "../ios-git-playground.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +36,7 @@
 		ECC4D78B2CA2154B00C81039 = {
 			isa = PBXGroup;
 			children = (
+				ECC4D7A52CA216CE00C81039 /* ios-git-playground.swift */,
 				ECC4D7962CA2154B00C81039 /* ios-git-intro */,
 				ECC4D7952CA2154B00C81039 /* Products */,
 			);
